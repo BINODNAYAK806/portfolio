@@ -23,8 +23,8 @@ const projects = [
     imgPath: dinout,
     title: "Dineout Web Clone",
     description: "Dineout is a table booking platform helping customers to do table booking in their favourite restaurants. We were a team of four members, distributed the whole website amoung us. and make a clone website of Dineout in 5 days.",
-    link: "https://github.com/rshukla12/meesho",
-    demo: "https://meesho-by-nitrogen.netlify.app",
+    link: "https://github.com/SwapnilMeshram19/Dineout-Clone",
+    demo: "https://dineout-cloned.netlify.app/",
     stack: ["javascript", "node", "html", "css", "git"]
   }
   // ,
