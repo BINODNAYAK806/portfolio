@@ -16,7 +16,7 @@ function Footer() {
           <ul className="home-about-social-links">
             <li className="social-icons">
               <a
-                href="https://github.com/Rshukla12"
+                href="https://github.com/BINODNAYAK806"
                 target="_blank"
                 rel="noreferrer"
                 className="icon-colour  home-social-icons"
@@ -26,7 +26,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/rshukla12/"
+                href="https://www.linkedin.com/in/binod-nayak-05754b170/"
                 target="_blank"
                 rel="noreferrer"
                 className="icon-colour  home-social-icons"
@@ -39,14 +39,14 @@ function Footer() {
       </Row>
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by RAVI SHUKLA</h3>
+          <h3>Designed and Developed by BINOD NAYAK</h3>
         </Col>
         <Col md="4" className="footer-copywright"></Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Rshukla12"
+                href="https://github.com/BINODNAYAK806"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -56,7 +56,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/Rshukla12/"
+                href="https://www.linkedin.com/in/binod-nayak-05754b170/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -66,7 +66,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.leetcode.com/rshukla12/"
+                href="*"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -76,7 +76,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.hackerrank.com/iamrshukla/"
+                href="*"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"

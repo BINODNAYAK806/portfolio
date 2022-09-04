@@ -40,7 +40,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> RAVI SHUKLA</strong>
+                <strong className="main-name"> BINOD NAYAK</strong>
               </h1>
 
               <div
@@ -58,7 +58,7 @@ function Home() {
                       fontSize: "1.5rem"
                     }}
                     className="main-resume"
-                    href="https://drive.google.com/file/d/1awOtW0hwzO0WjNUQba8mHZSDqlGWGjzr/view?usp=sharing"
+                    href="https://drive.google.com/drive/folders/1pQ3rLIb3gNTeT1ry_ij3V1XTk0YrI_Uc?usp=sharing"
                     target="_blank"
                     rel="noreferrer"
                   >

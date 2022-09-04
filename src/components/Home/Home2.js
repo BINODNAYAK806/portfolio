@@ -16,7 +16,7 @@ function Home2() {
               <br />
               <br />I am fluent in languages like
               <i>
-                <b className="purple"> Javascript and Python. </b>
+                <b className="purple"> Javascript . </b>
               </i>
               <br />
               <br />
