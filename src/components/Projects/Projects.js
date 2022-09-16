@@ -3,9 +3,9 @@ import { Container, Row, Col } from "react-bootstrap";
 import loadable from "@loadable/component";
 
 // import Udemy from "../../Assets/Projects/udemy.jpg";
-import Meesho from "../../Assets/Projects/meesho.jpg";
-import YtMusic from "../../Assets/Projects/yt-music.jpg";
-import Airtable from "../../Assets/Projects/airtable.jpg";
+// import Meesho from "../../Assets/Projects/meesho.jpg";
+import YtMusic from "../../Assets/Projects/coshe.PNG";
+// import Airtable from "../../Assets/Projects/airtable.jpg";
 import Overstock from "../../Assets/Projects/OVERSTOCK.PNG"
 import dinout from "../../Assets/Projects/DINOUT.PNG"
 const ProjectCard = loadable(() => import("./ProjectCards"));
@@ -27,15 +27,15 @@ const projects = [
     demo: "https://dineout-cloned.netlify.app/",
     stack: ["javascript", "node", "html", "css", "git"]
   }
-  // ,
-  // {
-  //   imgPath: YtMusic,
-  //   title: "YouTube Music Clone",
-  //   description: "Youtube music allows user to play any song, search for any artist, song, playlist and add it to the library. Library will persist only for few hours as it is maintained using heroku and mock- server.",
-  //   link: "https://github.com/rajachoudhary/Youtube_Music",
-  //   demo: "https://yt-music-masters.netlify.app",
-  //   stack: ["javascript", "node", "html", "css", "git"]
-  // },
+  ,
+  {
+    imgPath: YtMusic,
+    title: "CoSchedule  Clone",
+    description: "Co schedule A calendar that helps you see, schedule, and share your marketing. A family of agile marketing products to coordinate your team, projects, and process.",
+    link: "https://github.com/Be-create/CoSchedule",
+    demo: "https://endearing-dragon-3d98da.netlify.app/",
+    stack: ["javascript", "html", "css", "react", "redux", "git",]
+  }
   // {
   //   imgPath: Airtable,
   //   title: "Airtable Clone",
