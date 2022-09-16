@@ -40,28 +40,28 @@ const frontendStacks = [
 ];
 
 const backendStacks = [
-  {
-    icon: <DiNodejs />,
-    label: "Node",
-  },
-  {
-    icon: <SiExpress />,
-    label: "Express",
-  },
-  {
-    icon: <DiMongodb />,
-    label: "MongoDB",
-  },
-  {
-    icon: <DiMysql />,
-    label: "SQL",
-  },
-  {
-    icon: <DiPython />,
-    label: "Python",
-  }
+  // {
+  //   icon: <DiNodejs />,
+  //   label: "Node",
+  // },
+  // {
+  //   icon: <SiExpress />,
+  //   label: "Express",
+  // },
+  // {
+  //   icon: <DiMongodb />,
+  //   label: "MongoDB",
+  // },
+  // {
+  //   icon: <DiMysql />,
+  //   label: "SQL",
+  // },
+  // {
+  //   icon: <DiPython />,
+  //   label: "Python",
+  // }
 ];
-
+  
 function Techstack() {
   return (
     <>
@@ -82,7 +82,7 @@ function Techstack() {
       </Row>
       
       <h1 className="project-heading">
-        Backend
+        
       </h1>
       <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
         {
