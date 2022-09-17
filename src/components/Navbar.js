@@ -97,7 +97,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://drive.google.com/file/d/1awOtW0hwzO0WjNUQba8mHZSDqlGWGjzr/view?usp=sharing"
+                href="https://drive.google.com/drive/folders/1pQ3rLIb3gNTeT1ry_ij3V1XTk0YrI_Uc?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
               >
